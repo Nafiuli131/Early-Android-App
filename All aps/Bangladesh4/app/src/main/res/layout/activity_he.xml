@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+দারিদ্রপীড়িত বাংলাদেশে অপুষ্টি একটি দুরূগ সমস্যা যা স্বাস্থ্য খাতে ব্যাপকভাবে প্রভাব বিস্তার করেছে। অপুষ্টিজনিত কারণে বাংলাদেশের ভবিষ্যৎ প্রজন্ম হিসেবে পরিচিত শিশুরা বিশ্ব ব্যাংকের জরীপে বিশ্বে শীর্ষস্থান দখল করেছে যা মোটেই কাঙ্খিত নয়।[৭৮][৭৯] মোট জনগোষ্ঠীর ২৬% অপুষ্টিতে ভুগছে।[৮০] ৪৬% শিশু মাঝারি থেকে গভীরতর পর্যায়ে ওজনজনিত সমস্যায় ভুগছে।[৮১] ৫ বছর বয়সের পূর্বেই ৪৩% শিশু মারা যায়। প্রতি পাঁচ শিশুর একজন ভিটামিন এ এবং প্রতি দু'জনের একজন রক্তস্বল্পতাজনিত রোগে ভুগছে।[৮২]
+
+তবে গত দুই শতকে মানুষের খাদ্যগ্রহণ বৃদ্ধি পেয়েছে (২০১৩: ২০৪০ গ্রাম দৈনিক) এবং সুষম খাদ্যাভাস গড়ে উঠেছে যার ফলস্বরূপ অকাল মৃত্যুর হার হ্রাস পেয়েছে এবং জনগণের গড় আয়ু ৭০.৭৫ বৎসরে (২০১৬ খ্রি:) উন্নীত হয়েছে।[৮৩] বহু সরকারী-বেসরকারী হাসপাতাল এবং ১৩ হাজার কমিউনিটি হাসাপাতালে মাধ্যমে স্বাস্থ্যসেবার মান অনেকাংশে উন্নীত হয়েছে। জন্মকালে শিশু মৃত্যু হার (২০১৩: হাজারে ৫৩ জন) ও মাতৃমৃত্যুর হার (২০১৩: হাজারে ১৪৩ জন) উল্লেখযোগ্য হারে হ্রাস পেয়েছে। চিকিৎসা ব্যবস্থায় প্রভূত উন্নতি সাধিত হয়েছে।[৮৪]"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+</ScrollView>

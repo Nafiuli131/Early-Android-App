@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+বাংলাদেশের বৈদেশিক বা আন্তর্জাতিক বা পররাষ্ট্রনীতি হল গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক প্রণীত অপরাপর রাষ্ট্রসমূহের সঙ্গে বাংলাদেশের সম্পর্ক ও আচরণের নীতিমালা। ১৯৭১ সালে স্বাধীনতা লাভের পর থেকে বাংলাদেশ 'সকলের সাথে বন্ধুত্ব, কারও সাথে বৈরিতা নয়', এই নীতি অনুসরণ করে বৈদেশিক সম্পর্ক বজায় রেখে চলেছে। একটি অসাম্প্রদায়িক রাষ্ট্র হিসেবে বাংলাদেশ সবসময়ই বিংশ শতাব্দীর স্নায়ুযুদ্ধে প্রভাবশালী রাষ্ট্রসমূহের পক্ষাবলম্বন থেকে বিরত থেকেছে। একটি মুসলিম সংখ্যাগরিষ্ঠ রাষ্ট্র হওয়ার কারণে অন্যান্য মুসলিম দেশগুলোর বাংলাদেশের সঙ্গে সুদৃঢ় কূটনৈতিক ও বাণিজ্যিক সুসম্পর্ক রয়েছে। পাশাপাশি, রাজনৈতিকভাবে বাংলাদেশ ইসরায়েল রাষ্ট্র প্রতিষ্ঠার বিরোধী।"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+</ScrollView>

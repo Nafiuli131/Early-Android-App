@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+১৯৭১ সালে স্বাধীনতা অর্জনের পর বাংলাদেশের যোগাযোগ ও পর্যটন খাত অর্থ মন্ত্রণালয়ের অধীনে ছিল। আগস্ট, ১৯৭৫ সালে পৃথক একটি মন্ত্রণালয় হিসেবে বেসামরিক বিমান চলাচল ও পর্যটন মন্ত্রণালয় সৃষ্টি করা হয়। জানুয়ারি, ১৯৭৬ সালে এটি পুণরায় যোগাযোগ মন্ত্রণালয়ের বিভাগে পরিণত হয়। ডিসেম্বর, ১৯৭৭ সালে পৃথকভাবে বেসামরিক বিমান চলাচল ও পর্যটন মন্ত্রণালয় খোলা হয়। ২৪ মার্চ, ১৯৮২ সালে এ মন্ত্রণালয়কে বিলুপ্ত করে প্রতিরক্ষা মন্ত্রণালয়ের অধীনে ন্যাস্ত করা হয়। এরপর ১৯৮৬ সাল থেকে উক্ত মন্ত্রণালয়কে পুণঃপ্রতিষ্ঠা অদ্যাবধি তাদের কার্যক্রম চালাচ্ছে।[৭৭]"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+</ScrollView>
